@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e8802c-b401-44ea-9e8e-28e77f83733f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GradeCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +36,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/javaAlgorithmQuestions/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingNumbers" />
+      <module name="javaAlgorithmQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortingNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
