@@ -41,7 +41,14 @@
     "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/javaAlgorithmQuestions/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FindHoroscope">
+    <configuration name="FindHoroscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindHoroscope" />
+      <module name="javaAlgorithmQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingNumbers" />
       <module name="javaAlgorithmQuestions" />
@@ -51,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindHoroscope" />
         <item itemvalue="Application.SortingNumbers" />
       </list>
     </recent_temporary>
