@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SortingNumbers {
+public class SortingNumbers {
+    public static void main(String[] args) {
+
+    }
 }
