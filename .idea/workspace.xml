@@ -41,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaAlgorithmQuestions/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChineseZodiac">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
       <module name="javaAlgorithmQuestions" />
@@ -63,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="javaAlgorithmQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingNumbers" />
       <module name="javaAlgorithmQuestions" />
@@ -72,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlightTicket" />
         <item itemvalue="Application.FindHoroscope" />
