@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e8802c-b401-44ea-9e8e-28e77f83733f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FlightTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChineseZodiac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaAlgorithmQuestions/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlightTicket">
+  <component name="RunManager" selected="Application.ChineseZodiac">
+    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
+      <module name="javaAlgorithmQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindHoroscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindHoroscope" />
       <module name="javaAlgorithmQuestions" />
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlightTicket" />
         <item itemvalue="Application.FindHoroscope" />
         <item itemvalue="Application.SortingNumbers" />
